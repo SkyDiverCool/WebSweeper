@@ -2,6 +2,8 @@
 
 WebSweeper is a web scale batch processing framework oriented at low performance distributed computing systems.
 
+![Network diagram](https://i.imgur.com/Ef7Vscb.png)
+
 The mainstay of the framework is orienting the processing flow into micro and macro batches
 
 Micro batches are small processing steps that are purely computational in their core(Strictly no I/O within)
